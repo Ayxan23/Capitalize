@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\bin\Debug\net6.0\Capitalize.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\refint\Capitalize.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\Capitalize.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Capitalize\Capitalize\obj\Debug\net6.0\ref\Capitalize.dll
