@@ -4,21 +4,22 @@
     {
         static void Main(string[] args)
         {
-
-            string str = "bU tasKI metHodla yAzmAliSINiz";
-            Capitalize(str);
-
+            //string str = "bU tasKI metHodla yAzmAliSINiz";
+            string str = Console.ReadLine();
+            Console.WriteLine(Capitalize(str));
         }
 
-        static void Capitalize(string str)
+        static string Capitalize(string str)
         {
             str = str.ToLower();
             string[] word = str.Split();
+            string filteredWord = "";
 
             foreach (var item in word)
             {
-                Console.Write(char.ToUpper(item[0]) + item.Substring(1) + " ");
+                filteredWord += char.ToUpper(item[0]) + item.Substring(1) + " ";
             }
+            return filteredWord;
         }
 
     }
